@@ -1,0 +1,10 @@
+{
+  "name": "homebridge-Mac-Monitor",
+  "engines": {
+    "node": ">=6.0.0",
+    "homebridge": ">=0.4.20"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ]
+}
